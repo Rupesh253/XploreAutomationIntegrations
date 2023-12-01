@@ -1,0 +1,61 @@
+{
+  "info": {
+    "testCycleId": 9779,
+    "testCycleName": "[Wednesday, August 30, 2022 12:47:54 PM] Biweekly Regression Automated TestCycle",
+    "environment": "QA",
+    "category": "Smoke",
+    "passedStatus": "4/4",
+    "failedStatus": "0/4",
+    "platformName": "Android",
+    "platformVersion": "11.0",
+    "device": "Oneplus 7T",
+    "hostName": "<HOSTNAME>",
+    "ip": "fe80::823d:1ba3:5833:9e44%15"
+  },
+  "results": [
+    {
+      "userKey": "RUPESHKUMARSOMALA",
+      "key": "PROJECTKEY-T275",
+      "testCaseId": 605757,
+      "executionId": 503301,
+      "executionDate": "2022-08-30T12:47:59.568Z",
+      "status": 2804,
+      "bugTitle": null,
+      "exception": null,
+      "imageLocation": null
+    },
+    {
+      "userKey": "RUPESHKUMARSOMALA",
+      "key": "PROJECTKEY-T276",
+      "testCaseId": 605758,
+      "executionId": 503302,
+      "executionDate": "2022-08-30T12:48:01.791Z",
+      "status": 2804,
+      "bugTitle": null,
+      "exception": null,
+      "imageLocation": null
+    },
+    {
+      "userKey": "RUPESHKUMARSOMALA",
+      "key": "PROJECTKEY-T277",
+      "testCaseId": 605759,
+      "executionId": 503303,
+      "executionDate": "2022-08-30T12:48:04.021Z",
+      "status": 2804,
+      "bugTitle": null,
+      "exception": null,
+      "imageLocation": null
+    },
+    {
+      "userKey": "RUPESHKUMARSOMALA",
+      "key": "PROJECTKEY-T278",
+      "testCaseId": 605760,
+      "executionId": 503304,
+      "executionDate": "2022-08-30T12:48:06.24Z",
+      "status": 2804,
+      "bugTitle": null,
+      "exception": null,
+      "imageLocation": null
+    }
+  ]
+}

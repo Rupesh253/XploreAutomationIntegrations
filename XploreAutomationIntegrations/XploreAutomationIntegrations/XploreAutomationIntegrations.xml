@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="0" name="XploreAutomationIntegrations.dll" fullname="C:\Users\RUPESHKUMARSOMALA\source\repos\XploreAutomationIntegrations\XploreAutomationIntegrations\bin\Debug\net6.0\XploreAutomationIntegrations.dll" runstate="Runnable" testcasecount="5" result="Failed" total="5" passed="2" failed="2" warnings="0" inconclusive="0" skipped="1" asserts="0" engine-version="3.15.3.0" clr-version="6.0.21" start-time="2022-08-11 13:20:16Z" end-time="2022-08-11 13:20:36Z" duration="19.531778">
+  <command-line><![CDATA[C:\Users\RUPESHKUMARSOMALA\source\repos\XploreAutomationIntegrations\XploreAutomationIntegrations\bin\Debug\net6.0\testhost.dll --port 57475 --endpoint 127.0.0.1:057475 --role client --parentprocessid 29280 --telemetryoptedin false]]></command-line>
+  <test-suite type="Assembly" id="0-1006" name="XploreAutomationIntegrations.dll" fullname="C:/Users/RUPESHKUMARSOMALA/source/repos/XploreAutomationIntegrations/XploreAutomationIntegrations/bin/Debug/net6.0/XploreAutomationIntegrations.dll" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2022-08-11T13:20:16.9596137Z" end-time="2022-08-11T13:20:36.3029836Z" duration="19.343046" total="5" passed="2" failed="2" warnings="0" inconclusive="0" skipped="1" asserts="0">
+    <environment framework-version="3.13.3.0" clr-version="6.0.21" os-version="Microsoft Windows 10.0.19045" platform="Win32NT" cwd="C:\Users\RUPESHKUMARSOMALA\source\repos\XploreAutomationIntegrations\XploreAutomationIntegrations\bin\Debug\net6.0" machine-name="IN1-RUPESHKUMARSOMALALTT" user="RUPESHKUMARSOMALA" user-domain="" culture="en-US" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="SynchronousEvents" value="False" />
+      <setting name="InternalTraceLevel" value="Off" />
+      <setting name="RandomSeed" value="29306570" />
+      <setting name="SkipNonTestAssemblies" value="True" />
+      <setting name="ProcessModel" value="InProcess" />
+      <setting name="DomainUsage" value="Single" />
+      <setting name="DefaultTestNamePattern" value="{m}{a}" />
+      <setting name="WorkDirectory" value="C:\Users\RUPESHKUMARSOMALA\source\repos\XploreAutomationIntegrations\XploreAutomationIntegrations\bin\Debug\net6.0" />
+      <setting name="NumberOfTestWorkers" value="16" />
+    </settings>
+    <properties>
+      <property name="_PID" value="14300" />
+      <property name="_APPDOMAIN" value="testhost" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="TestSuite" id="0-1007" name="XploreAutomationIntegrations" fullname="XploreAutomationIntegrations" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2022-08-11T13:20:16.9628175Z" end-time="2022-08-11T13:20:36.3029757Z" duration="19.339893" total="5" passed="2" failed="2" warnings="0" inconclusive="0" skipped="1" asserts="0">
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestFixture" id="0-1000" name="Tests" fullname="XploreAutomationIntegrations.Tests" classname="XploreAutomationIntegrations.Tests" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2022-08-11T13:20:16.9636593Z" end-time="2022-08-11T13:20:36.3027314Z" duration="19.338808" total="5" passed="2" failed="2" warnings="0" inconclusive="0" skipped="1" asserts="0">
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <output><![CDATA[
+Fixture Setup
+https://jira.YOURCOMPANYNAME.com/rest/tests/1.0/testcase/search?fields=id,key,projectId,name,averageTime,estimatedTime,labels,folderId,componentId,status(id,name,i18nKey,color),priority(id,name,i18nKey,color),lastTestResultStatus(name,i18nKey,color),majorVersion,createdOn,createdBy,updatedOn,updatedBy,customFieldValues,owner,folderId&query=testCase.projectId IN (18200) ORDER BY testCase.name ASC&startAt=0&maxResults=2000&archived=false
+
+C:\Users\RUPESHKUMARSOMALA\source\repos\XploreAutomationIntegrations\XploreAutomationIntegrations\bin\Debug\net6.0\testcases.json
+C:\Users\RUPESHKUMARSOMALA\source\repos\XploreAutomationIntegrations\XploreAutomationIntegrations\bin\Debug\net6.0
+C:\Users\RUPESHKUMARSOMALA\source\repos\XploreAutomationIntegrations\XploreAutomationIntegrations\bin\Debug
+C:\Users\RUPESHKUMARSOMALA\source\repos\XploreAutomationIntegrations\XploreAutomationIntegrations\bin\Debug\
+C:\Users\RUPESHKUMARSOMALA\source\repos\XploreAutomationIntegrations\XploreAutomationIntegrations\bin
+C:\Users\RUPESHKUMARSOMALA\source\repos\XploreAutomationIntegrations\XploreAutomationIntegrations\bin\
+494938
+XploreAutomationIntegrations
+XploreAutomationIntegrations.Tests
+SetUpFixture
+Fixture Teardown
+]]></output>
+        <test-case id="0-1001" name="PROJECTKEYT275_Test1" fullname="XploreAutomationIntegrations.Tests.PROJECTKEYT275_Test1" methodname="PROJECTKEYT275_Test1" classname="XploreAutomationIntegrations.Tests" runstate="Runnable" seed="181149937" result="Passed" start-time="2022-08-11T13:20:28.2506420Z" end-time="2022-08-11T13:20:30.2709404Z" duration="2.020328" asserts="0">
+          <properties>
+            <property name="Author" value="RKS" />
+            <property name="Category" value="UI" />
+            <property name="Category" value="Sanity" />
+            <property name="Category" value="Regression" />
+            <property name="Test" value="PROJECTKEY-T275" />
+            <property name="Description" value="Element will be hidden" />
+          </properties>
+          <output><![CDATA[Test Setup
+Test1
+Test Teardown
+]]></output>
+        </test-case>
+        <test-case id="0-1002" name="PROJECTKEYT276_Test2" fullname="XploreAutomationIntegrations.Tests.PROJECTKEYT276_Test2" methodname="PROJECTKEYT276_Test2" classname="XploreAutomationIntegrations.Tests" runstate="Runnable" seed="751316220" result="Passed" start-time="2022-08-11T13:20:30.2721443Z" end-time="2022-08-11T13:20:32.2733350Z" duration="2.001164" asserts="0">
+          <properties>
+            <property name="Author" value="RKS" />
+            <property name="Category" value="UI" />
+            <property name="Category" value="Sanity" />
+            <property name="Category" value="Regression" />
+            <property name="Test" value="PROJECTKEY-T276" />
+            <property name="Description" value="Element will be hidden" />
+          </properties>
+          <output><![CDATA[Test Setup
+Test2
+Test Teardown
+]]></output>
+        </test-case>
+        <test-case id="0-1003" name="PROJECTKEYT277_Test3" fullname="XploreAutomationIntegrations.Tests.PROJECTKEYT277_Test3" methodname="PROJECTKEYT277_Test3" classname="XploreAutomationIntegrations.Tests" runstate="Runnable" seed="1975491221" result="Failed" start-time="2022-08-11T13:20:32.2733915Z" end-time="2022-08-11T13:20:34.2864707Z" duration="2.013052" asserts="0">
+          <properties>
+            <property name="Author" value="RKS" />
+            <property name="Category" value="UI" />
+            <property name="Category" value="Sanity" />
+            <property name="Category" value="Regression" />
+            <property name="Test" value="PROJECTKEY-T277" />
+            <property name="Description" value="Element will be hidden" />
+          </properties>
+          <failure>
+            <stack-trace><![CDATA[   at XploreAutomationIntegrations.Tests.PROJECTKEYT277_Test3() in C:\Users\RUPESHKUMARSOMALA\source\repos\XploreAutomationIntegrations\XploreAutomationIntegrations\UnitTest1.cs:line 110
+]]></stack-trace>
+          </failure>
+          <output><![CDATA[Test Setup
+Test3
+Test Teardown
+]]></output>
+          <assertions>
+            <assertion result="Failed">
+              <message><![CDATA[]]></message>
+              <stack-trace><![CDATA[   at XploreAutomationIntegrations.Tests.PROJECTKEYT277_Test3() in C:\Users\RUPESHKUMARSOMALA\source\repos\XploreAutomationIntegrations\XploreAutomationIntegrations\UnitTest1.cs:line 110
+]]></stack-trace>
+            </assertion>
+          </assertions>
+        </test-case>
+        <test-case id="0-1004" name="PROJECTKEYT278_Test4" fullname="XploreAutomationIntegrations.Tests.PROJECTKEYT278_Test4" methodname="PROJECTKEYT278_Test4" classname="XploreAutomationIntegrations.Tests" runstate="Runnable" seed="1791123664" result="Failed" start-time="2022-08-11T13:20:34.2865889Z" end-time="2022-08-11T13:20:36.3015034Z" duration="2.014887" asserts="0">
+          <properties>
+            <property name="Author" value="RKS" />
+            <property name="Category" value="UI" />
+            <property name="Category" value="Sanity" />
+            <property name="Category" value="Regression" />
+            <property name="Test" value="PROJECTKEY-T278" />
+            <property name="Description" value="Element will be hidden" />
+          </properties>
+          <failure>
+            <stack-trace><![CDATA[   at XploreAutomationIntegrations.Tests.PROJECTKEYT278_Test4() in C:\Users\RUPESHKUMARSOMALA\source\repos\XploreAutomationIntegrations\XploreAutomationIntegrations\UnitTest1.cs:line 118
+]]></stack-trace>
+          </failure>
+          <output><![CDATA[Test Setup
+Test4
+Test Teardown
+]]></output>
+          <assertions>
+            <assertion result="Failed">
+              <message><![CDATA[]]></message>
+              <stack-trace><![CDATA[   at XploreAutomationIntegrations.Tests.PROJECTKEYT278_Test4() in C:\Users\RUPESHKUMARSOMALA\source\repos\XploreAutomationIntegrations\XploreAutomationIntegrations\UnitTest1.cs:line 118
+]]></stack-trace>
+            </assertion>
+          </assertions>
+        </test-case>
+        <test-case id="0-1005" name="Test5" fullname="XploreAutomationIntegrations.Tests.Test5" methodname="Test5" classname="XploreAutomationIntegrations.Tests" runstate="Ignored" seed="358546237" result="Skipped" label="Ignored" start-time="2022-08-11T13:20:36.3015277Z" end-time="2022-08-11T13:20:36.3018266Z" duration="0.000299" asserts="0">
+          <properties>
+            <property name="Author" value="RKS" />
+            <property name="Category" value="UI" />
+            <property name="Category" value="Sanity" />
+            <property name="Category" value="Regression" />
+            <property name="Test" value="YOURPROJECTKEY-T1037" />
+            <property name="Description" value="Element will be hidden" />
+            <property name="_SKIPREASON" value="" />
+          </properties>
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

@@ -1,0 +1,66 @@
+{
+  "info": {
+    "testCycleId": 9558,
+    "testCycleName": "[Monday, August 14, 2022 7:51:53 AM] Biweekly Regression Automated TestCycle",
+    "passedStatus": "3/4",
+    "failedStatus": "1/4"
+  },
+  "results": [
+    {
+      "userKey": "RUPESHKUMARSOMALA",
+      "bugTitle": null,
+      "key": "PROJECTKEY-T275",
+      "testCaseId": 605757,
+      "executionId": 494906,
+      "imageLocation": null,
+      "executionDate": "2022-08-14T07:52:04.892Z",
+      "status": 2804,
+      "platformName": "Android",
+      "platformVersion": "11.0",
+      "device": "Oneplus 7T",
+      "exception": null
+    },
+    {
+      "userKey": "RUPESHKUMARSOMALA",
+      "bugTitle": null,
+      "key": "PROJECTKEY-T276",
+      "testCaseId": 605758,
+      "executionId": 494907,
+      "imageLocation": null,
+      "executionDate": "2022-08-14T07:52:07.871Z",
+      "status": 2804,
+      "platformName": "Android",
+      "platformVersion": "11.0",
+      "device": "Oneplus 7T",
+      "exception": null
+    },
+    {
+      "userKey": "RUPESHKUMARSOMALA",
+      "bugTitle": "_Test3 failed",
+      "key": "PROJECTKEY-T277",
+      "testCaseId": 605759,
+      "executionId": 494908,
+      "imageLocation": "C:\\Users\\git\\source\\XploreAutomationIntegrations\\XploreAutomationIntegrations\\video.mp4",
+      "executionDate": "2022-08-14T07:52:48.568Z",
+      "status": 2805,
+      "platformName": "Android",
+      "platformVersion": "11.0",
+      "device": "Oneplus 7T",
+      "exception": "Top Stacktrace: \n   at XploreAutomationIntegrations.UnitTest1.SOMEPROJECTT277_Test3() in C:\\Users\\git\\source\\XploreAutomationIntegrations\\XploreAutomationIntegrations\\UnitTest1.cs:line 256\r\nTop Message: \n  Description doesn't matched\r\n  Expected string length 18 but was 16. Strings differ at index 5.\r\n  Expected: \"some expected desc\"\r\n  But was:  \"some actual desc\"\r\n  ----------------^\r\n\r\n"
+    },
+    {
+      "userKey": "RUPESHKUMARSOMALA",
+      "bugTitle": null,
+      "key": "PROJECTKEY-T278",
+      "testCaseId": 605760,
+      "executionId": 494909,
+      "imageLocation": null,
+      "executionDate": "2022-08-14T07:53:01.508Z",
+      "status": 2804,
+      "platformName": "Android",
+      "platformVersion": "11.0",
+      "device": "Oneplus 7T",
+      "exception": null
+    }
+  ]
+}

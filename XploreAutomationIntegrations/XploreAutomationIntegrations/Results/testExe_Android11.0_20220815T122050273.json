@@ -1,0 +1,28 @@
+{
+  "info": {
+    "testCycleId": 9579,
+    "testCycleName": "[Tuesday, August 15, 2022 4:42:35 AM] Biweekly Regression Automated TestCycle [Continued]",
+    "environment": "QA",
+    "category": "Smoke",
+    "passedStatus": "0/1",
+    "failedStatus": "1/1",
+    "platformName": "Android",
+    "platformVersion": "11.0",
+    "device": "Oneplus 7T",
+    "hostName": "<HOSTNAME>",
+    "ip": "fe80::823d:1ba3:5833:9e44%13"
+  },
+  "results": [
+    {
+      "userKey": "RUPESHKUMARSOMALA",
+      "key": "PROJECTKEY-T276",
+      "testCaseId": 605758,
+      "executionId": 495152,
+      "executionDate": "2022-08-15T06:50:43.407Z",
+      "status": 2805,
+      "bugTitle": "_Test2 failed",
+      "exception": "Top Stacktrace:\n   at XploreAutomationIntegrations.UnitTest1.SOMEPROJECTT276_Test2() in C:\\Users\\git\\source\\XploreAutomationIntegrations\\XploreAutomationIntegrations\\UnitTest1.cs:line 277\r\nTop Message:\n\r\n",
+      "imageLocation": "C:\\Users\\git\\source\\XploreAutomationIntegrations\\XploreAutomationIntegrations\\video.mp4"
+    }
+  ]
+}

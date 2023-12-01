@@ -1,0 +1,152 @@
+{
+  "results": [
+    {
+      "estimatedTime": 600000,
+      "owner": "RUPESHKUMARSOMALA",
+      "updatedBy": "RUPESHKUMARSOMALA",
+      "updatedOn": "2022-08-13T08:27:48.22Z",
+      "majorVersion": 1,
+      "priority": {
+        "color": "#ffa900",
+        "i18nKey": "TESTCASE.PRIORITY.NORMAL",
+        "name": "Normal",
+        "id": 2817
+      },
+      "createdOn": "2022-08-11T12:27:57.043Z",
+      "folderId": 76425,
+      "labels": [
+        "Automated",
+        "Smoke"
+      ],
+      "customFieldValues": [],
+      "createdBy": "RUPESHKUMARSOMALA",
+      "lastTestResultStatus": {
+        "color": "#cfcfc4",
+        "i18nKey": "TEST_RESULT.STATUS.NOT_EXECUTED",
+        "name": "Not Executed"
+      },
+      "name": "Auto1",
+      "id": 605757,
+      "projectId": 53530,
+      "key": "PROJECTKEY-T275",
+      "status": {
+        "color": "#f0ad4e",
+        "i18nKey": "TESTCASE.STATUS.DRAFT",
+        "name": "Draft",
+        "id": 2807
+      }
+    },
+    {
+      "estimatedTime": 300000,
+      "owner": "RUPESHKUMARSOMALA",
+      "updatedBy": "RUPESHKUMARSOMALA",
+      "updatedOn": "2022-08-13T08:28:01.61Z",
+      "majorVersion": 1,
+      "priority": {
+        "color": "#ffa900",
+        "i18nKey": "TESTCASE.PRIORITY.NORMAL",
+        "name": "Normal",
+        "id": 2817
+      },
+      "createdOn": "2022-08-11T12:28:10.753Z",
+      "folderId": 76425,
+      "labels": [
+        "Automated",
+        "Smoke"
+      ],
+      "customFieldValues": [],
+      "createdBy": "RUPESHKUMARSOMALA",
+      "lastTestResultStatus": {
+        "color": "#cfcfc4",
+        "i18nKey": "TEST_RESULT.STATUS.NOT_EXECUTED",
+        "name": "Not Executed"
+      },
+      "name": "Auto2",
+      "id": 605758,
+      "projectId": 53530,
+      "key": "PROJECTKEY-T276",
+      "status": {
+        "color": "#f0ad4e",
+        "i18nKey": "TESTCASE.STATUS.DRAFT",
+        "name": "Draft",
+        "id": 2807
+      }
+    },
+    {
+      "estimatedTime": 1800000,
+      "owner": "RUPESHKUMARSOMALA",
+      "updatedBy": "RUPESHKUMARSOMALA",
+      "updatedOn": "2022-08-13T08:28:11.443Z",
+      "majorVersion": 1,
+      "priority": {
+        "color": "#ffa900",
+        "i18nKey": "TESTCASE.PRIORITY.NORMAL",
+        "name": "Normal",
+        "id": 2817
+      },
+      "createdOn": "2022-08-11T12:28:17.88Z",
+      "folderId": 76425,
+      "labels": [
+        "Automated",
+        "Smoke"
+      ],
+      "customFieldValues": [],
+      "createdBy": "RUPESHKUMARSOMALA",
+      "lastTestResultStatus": {
+        "color": "#cfcfc4",
+        "i18nKey": "TEST_RESULT.STATUS.NOT_EXECUTED",
+        "name": "Not Executed"
+      },
+      "name": "Auto3",
+      "id": 605759,
+      "projectId": 53530,
+      "key": "PROJECTKEY-T277",
+      "status": {
+        "color": "#f0ad4e",
+        "i18nKey": "TESTCASE.STATUS.DRAFT",
+        "name": "Draft",
+        "id": 2807
+      }
+    },
+    {
+      "estimatedTime": 120000,
+      "owner": "RUPESHKUMARSOMALA",
+      "updatedBy": "RUPESHKUMARSOMALA",
+      "updatedOn": "2022-08-13T08:28:21.397Z",
+      "majorVersion": 1,
+      "priority": {
+        "color": "#ffa900",
+        "i18nKey": "TESTCASE.PRIORITY.NORMAL",
+        "name": "Normal",
+        "id": 2817
+      },
+      "createdOn": "2022-08-11T12:28:27.293Z",
+      "folderId": 76425,
+      "labels": [
+        "Automated",
+        "Smoke"
+      ],
+      "customFieldValues": [],
+      "createdBy": "RUPESHKUMARSOMALA",
+      "lastTestResultStatus": {
+        "color": "#cfcfc4",
+        "i18nKey": "TEST_RESULT.STATUS.NOT_EXECUTED",
+        "name": "Not Executed"
+      },
+      "name": "Auto4",
+      "id": 605760,
+      "projectId": 53530,
+      "key": "PROJECTKEY-T278",
+      "status": {
+        "color": "#f0ad4e",
+        "i18nKey": "TESTCASE.STATUS.DRAFT",
+        "name": "Draft",
+        "id": 2807
+      }
+    }
+  ],
+  "total": 4,
+  "startAt": 0,
+  "maxResults": 40,
+  "last": true
+}

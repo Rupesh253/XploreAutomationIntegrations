@@ -1,0 +1,61 @@
+{
+  "info": {
+    "testCycleId": 9569,
+    "testCycleName": "[Monday, August 14, 2022 10:51:52 AM] Biweekly Regression Automated TestCycle [Continued] [Continued]",
+    "environment": "QA",
+    "category": "Smoke",
+    "passedStatus": "3/4",
+    "failedStatus": "1/4",
+    "platformName": "Android",
+    "platformVersion": "11.0",
+    "device": "Oneplus 7T",
+    "hostName": "<HOSTNAME>",
+    "ip": "fe80::823d:1ba3:5833:9e44%13"
+  },
+  "results": [
+    {
+      "userKey": "RUPESHKUMARSOMALA",
+      "key": "PROJECTKEY-T275",
+      "testCaseId": 605757,
+      "executionId": 494959,
+      "executionDate": "2022-08-14T12:37:34.622Z",
+      "status": 2804,
+      "bugTitle": null,
+      "exception": null,
+      "imageLocation": null
+    },
+    {
+      "userKey": "RUPESHKUMARSOMALA",
+      "key": "PROJECTKEY-T276",
+      "testCaseId": 605758,
+      "executionId": 494960,
+      "executionDate": "2022-08-14T12:38:06.687Z",
+      "status": 2804,
+      "bugTitle": null,
+      "exception": null,
+      "imageLocation": null
+    },
+    {
+      "userKey": "RUPESHKUMARSOMALA",
+      "key": "PROJECTKEY-T277",
+      "testCaseId": 605759,
+      "executionId": 494961,
+      "executionDate": "2022-08-14T12:38:43.95Z",
+      "status": 2805,
+      "bugTitle": "_Test3 failed",
+      "exception": "Top Stacktrace:\n   at XploreAutomationIntegrations.UnitTest1.SOMEPROJECTT277_Test3() in C:\\Users\\git\\source\\XploreAutomationIntegrations\\XploreAutomationIntegrations\\UnitTest1.cs:line 284\r\nTop Message:\n  Greater than failed\r\n  Expected: greater than 4\r\n  But was:  3\r\n\r\n",
+      "imageLocation": "C:\\Users\\git\\source\\XploreAutomationIntegrations\\XploreAutomationIntegrations\\video.mp4"
+    },
+    {
+      "userKey": "RUPESHKUMARSOMALA",
+      "key": "PROJECTKEY-T278",
+      "testCaseId": 605760,
+      "executionId": 494962,
+      "executionDate": "2022-08-14T12:40:42.035Z",
+      "status": 2804,
+      "bugTitle": null,
+      "exception": null,
+      "imageLocation": null
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "info": {
+    "testCycleId": 9794,
+    "testCycleName": "[Wednesday, August 30, 2022 1:55:59 PM] Biweekly Regression Automated TestCycle",
+    "environment": "QA",
+    "category": "Smoke",
+    "passedStatus": "0/0",
+    "failedStatus": "0/0",
+    "platformName": "Android",
+    "platformVersion": "11.0",
+    "device": "Oneplus 7T",
+    "hostName": "<HOSTNAME>",
+    "ip": "fe80::823d:1ba3:5833:9e44%15"
+  },
+  "results": []
+}

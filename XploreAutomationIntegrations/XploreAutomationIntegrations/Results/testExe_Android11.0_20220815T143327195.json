@@ -1,0 +1,61 @@
+{
+  "info": {
+    "testCycleId": 9582,
+    "testCycleName": "[Tuesday, August 15, 2022 9:03:09 AM] Biweekly Regression Automated TestCycle",
+    "environment": "QA",
+    "category": "Smoke",
+    "passedStatus": "3/4",
+    "failedStatus": "1/4",
+    "platformName": "Android",
+    "platformVersion": "11.0",
+    "device": "Oneplus 7T",
+    "hostName": "<HOSTNAME>",
+    "ip": "fe80::823d:1ba3:5833:9e44%13"
+  },
+  "results": [
+    {
+      "userKey": "RUPESHKUMARSOMALA",
+      "key": "PROJECTKEY-T275",
+      "testCaseId": 605757,
+      "executionId": 495163,
+      "executionDate": "2022-08-15T09:03:14.667Z",
+      "status": 2804,
+      "bugTitle": null,
+      "exception": null,
+      "imageLocation": null
+    },
+    {
+      "userKey": "RUPESHKUMARSOMALA",
+      "key": "PROJECTKEY-T276",
+      "testCaseId": 605758,
+      "executionId": 495164,
+      "executionDate": "2022-08-15T09:03:16.881Z",
+      "status": 2804,
+      "bugTitle": null,
+      "exception": null,
+      "imageLocation": null
+    },
+    {
+      "userKey": "RUPESHKUMARSOMALA",
+      "key": "PROJECTKEY-T277",
+      "testCaseId": 605759,
+      "executionId": 495165,
+      "executionDate": "2022-08-15T09:03:19.141Z",
+      "status": 2805,
+      "bugTitle": "_Test3 failed",
+      "exception": "Top Stacktrace:\n   at XploreAutomationIntegrations.UnitTest1.SOMEPROJECTT277_Test3() in C:\\Users\\git\\source\\XploreAutomationIntegrations\\XploreAutomationIntegrations\\UnitTest1.cs:line 289\r\nTop Message:\nMultiple failures or warnings in test:\r\n  1)   Bool check failed\r\n  Expected: True\r\n  But was:  False\r\n\r\n  2)   string check failed\r\n  String lengths are both 1. Strings differ at index 0.\r\n  Expected: \"s\"\r\n  But was:  \"a\"\r\n  -----------^\r\n\r\n  3)   Greater than failed\r\n  Expected: greater than 4\r\n  But was:  3\r\n\r\n  4)   Greater than failed\r\n  Expected: greater than 4\r\n  But was:  3\r\n\r\n\r\nAssertion Status: Failed\r\nAssertion Message:   Bool check failed\r\n  Expected: True\r\n  But was:  False\r\n\r\nAssertion StackTrace:    at XploreAutomationIntegrations.UnitTest1.<>c.<SOMEPROJECTT277_Test3>b__31_0() in C:\\Users\\git\\source\\XploreAutomationIntegrations\\XploreAutomationIntegrations\\UnitTest1.cs:line 290\r\n   at NUnit.Framework.Assert.Multiple(TestDelegate testDelegate)\r\n   at XploreAutomationIntegrations.UnitTest1.SOMEPROJECTT277_Test3() in C:\\Users\\git\\source\\XploreAutomationIntegrations\\XploreAutomationIntegrations\\UnitTest1.cs:line 289\r\n\r\nAssertion Status: Failed\r\nAssertion Message:   string check failed\r\n  String lengths are both 1. Strings differ at index 0.\r\n  Expected: \"s\"\r\n  But was:  \"a\"\r\n  -----------^\r\n\r\nAssertion StackTrace:    at XploreAutomationIntegrations.UnitTest1.<>c.<SOMEPROJECTT277_Test3>b__31_0() in C:\\Users\\git\\source\\XploreAutomationIntegrations\\XploreAutomationIntegrations\\UnitTest1.cs:line 291\r\n   at NUnit.Framework.Assert.Multiple(TestDelegate testDelegate)\r\n   at XploreAutomationIntegrations.UnitTest1.SOMEPROJECTT277_Test3() in C:\\Users\\git\\source\\XploreAutomationIntegrations\\XploreAutomationIntegrations\\UnitTest1.cs:line 289\r\n\r\nAssertion Status: Failed\r\nAssertion Message:   Greater than failed\r\n  Expected: greater than 4\r\n  But was:  3\r\n\r\nAssertion StackTrace:    at XploreAutomationIntegrations.UnitTest1.<>c.<SOMEPROJECTT277_Test3>b__31_0() in C:\\Users\\git\\source\\XploreAutomationIntegrations\\XploreAutomationIntegrations\\UnitTest1.cs:line 292\r\n   at NUnit.Framework.Assert.Multiple(TestDelegate testDelegate)\r\n   at XploreAutomationIntegrations.UnitTest1.SOMEPROJECTT277_Test3() in C:\\Users\\git\\source\\XploreAutomationIntegrations\\XploreAutomationIntegrations\\UnitTest1.cs:line 289\r\n\r\nAssertion Status: Failed\r\nAssertion Message:   Greater than failed\r\n  Expected: greater than 4\r\n  But was:  3\r\n\r\nAssertion StackTrace:    at XploreAutomationIntegrations.UnitTest1.<>c.<SOMEPROJECTT277_Test3>b__31_0() in C:\\Users\\git\\source\\XploreAutomationIntegrations\\XploreAutomationIntegrations\\UnitTest1.cs:line 293\r\n   at NUnit.Framework.Assert.Multiple(TestDelegate testDelegate)\r\n   at XploreAutomationIntegrations.UnitTest1.SOMEPROJECTT277_Test3() in C:\\Users\\git\\source\\XploreAutomationIntegrations\\XploreAutomationIntegrations\\UnitTest1.cs:line 289\r\n\r\n",
+      "imageLocation": "C:\\Users\\git\\source\\XploreAutomationIntegrations\\XploreAutomationIntegrations\\video.mp4"
+    },
+    {
+      "userKey": "RUPESHKUMARSOMALA",
+      "key": "PROJECTKEY-T278",
+      "testCaseId": 605760,
+      "executionId": 495166,
+      "executionDate": "2022-08-15T09:03:26.312Z",
+      "status": 2804,
+      "bugTitle": null,
+      "exception": null,
+      "imageLocation": null
+    }
+  ]
+}

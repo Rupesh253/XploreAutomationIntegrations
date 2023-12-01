@@ -1,0 +1,1 @@
+nunit3-console "C:\Users\git\source\XploreAutomationIntegrations\XploreAutomationIntegrations\bin\Debug\net6.0\XploreAutomationIntegrations.dll" --where "cat==0"

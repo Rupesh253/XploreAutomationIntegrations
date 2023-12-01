@@ -1,0 +1,60 @@
+{
+  "results": [
+    {
+      "userKey": "RUPESHKUMARSOMALA",
+      "bugTitle": null,
+      "key": "PROJECTKEY-T275",
+      "testCaseId": 605757,
+      "executionId": 494724,
+      "imageLocation": null,
+      "executionDate": "2022-08-12T18:54:34.337Z",
+      "status": 2804,
+      "platformName": "Android",
+      "platformVersion": "11.0",
+      "device": "Oneplus 7T",
+      "exception": null
+    },
+    {
+      "userKey": "RUPESHKUMARSOMALA",
+      "bugTitle": null,
+      "key": "PROJECTKEY-T276",
+      "testCaseId": 605758,
+      "executionId": 494725,
+      "imageLocation": null,
+      "executionDate": "2022-08-12T18:54:36.356Z",
+      "status": 2804,
+      "platformName": "Android",
+      "platformVersion": "11.0",
+      "device": "Oneplus 7T",
+      "exception": null
+    },
+    {
+      "userKey": "RUPESHKUMARSOMALA",
+      "bugTitle": "_Test3 failed",
+      "key": "PROJECTKEY-T277",
+      "testCaseId": 605759,
+      "executionId": 494726,
+      "imageLocation": "C:\\Users\\git\\source\\XploreAutomationIntegrations\\XploreAutomationIntegrations\\bugs9.png",
+      "executionDate": "2022-08-12T18:54:38.382Z",
+      "status": 2805,
+      "platformName": "Android",
+      "platformVersion": "11.0",
+      "device": "Oneplus 7T",
+      "exception": "   at XploreAutomationIntegrations.Tests.SOMEPROJECTT277_Test3() in C:\\Users\\git\\source\\XploreAutomationIntegrations\\XploreAutomationIntegrations\\UnitTest1.cs:line 244\r\n"
+    },
+    {
+      "userKey": "RUPESHKUMARSOMALA",
+      "bugTitle": null,
+      "key": "PROJECTKEY-T278",
+      "testCaseId": 605760,
+      "executionId": 494727,
+      "imageLocation": null,
+      "executionDate": "2022-08-12T18:54:44.711Z",
+      "status": 2804,
+      "platformName": "Android",
+      "platformVersion": "11.0",
+      "device": "Oneplus 7T",
+      "exception": null
+    }
+  ]
+}
